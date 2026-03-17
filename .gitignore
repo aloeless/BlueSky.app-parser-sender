@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+bluesky_bot.db
+bot.db
+
+# Configuration (Contains sensitive tokens!)
+config.py
+
+# Results and temporary files
+*.txt
+*.log
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Project specific
+banner.jpg
